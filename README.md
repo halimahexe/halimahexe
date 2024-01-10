@@ -4,9 +4,7 @@
 
 As the banner says, I'm Halimah.
 
-- 🌱 [Founders and Coders](https://www.foundersandcoders.com) FAC30 trainee
-
-I am currently training in software development with [Founders and Coders](https://www.foundersandcoders.com) as part of the FAC30 bootcamp, starting in January 2024.
+- 🌱 [Founders and Coders](https://www.foundersandcoders.com) FAC30 software bootcamp trainee, starting in January 2024
 
 ## Tech Stack (so far...)
 
