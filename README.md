@@ -4,7 +4,7 @@
 
 As the banner says, I'm Halimah.
 
-- 🌱 [Founders and Coders](https://www.foundersandcoders.com) FAC30 software bootcamp trainee, starting in January 2024
+- 🌱 currently learning on [Founders and Coders](https://www.foundersandcoders.com) FAC30 software bootcamp trainee
 
 ## Tech Stack (so far...)
 
@@ -19,4 +19,4 @@ I learned the basics of web development on [freeCodeCamp](https://www.freecodeca
 
 After I got on to the bootcamp, I practised my skills by creating:
 
-- 🎨 [Colour palette generator](https://halimahexe.github.io/ColourPalette) - automatically generates various colour palettes (created using HTML, CSS and JS).
+- 🎨 [Colour palette generator](https://halimahexe.github.io/ColourPalette) - automatically generates various colour palettes (created using HTML, CSS and JS). This is still a WIP.
