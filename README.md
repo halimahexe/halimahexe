@@ -1,10 +1,16 @@
-![Halimah = { pronouns: 'they/them', location: 'remote, UK', currently: 'FAC30 trainee'}](/img/header-mono.png)
+![Halimah Full Stack Developer](/img/github-header-image.png)
 
 # Hello
 
-As the banner says, I'm Halimah.
+```js
+  Halimah = {
+    pronouns: 'they/them',
+    location: 'remote, UK',
+    currently: 'FAC30 dev'
+  }
+```
 
-- 🌱 currently learning on [Founders and Coders](https://www.foundersandcoders.com) FAC30 software bootcamp trainee
+- 🌱 currently learning on [Founders and Coders](https://www.foundersandcoders.com) bootcamp on cohort FAC30B
 
 ## Tech Stack (so far...)
 
@@ -20,3 +26,4 @@ I learned the basics of web development on [freeCodeCamp](https://www.freecodeca
 After I got on to the bootcamp, I practised my skills by creating:
 
 - 🎨 [Colour palette generator](https://halimahexe.github.io/ColourPalette) - automatically generates various colour palettes (created using HTML, CSS and JS). This is still a WIP.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/240px-Pok%C3%A9_Ball_icon.svg.png" alt="pokeball" height="16px" width="16px"> [Poke-Search page](https://halimahexe.github.io/poke-search) - learning how to use fetch by creating a Pokemon search page that returns the pokemon and element types.
