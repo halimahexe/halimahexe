@@ -10,7 +10,9 @@
   }
 ```
 
-- 🌱 currently learning on [Founders and Coders](https://www.foundersandcoders.com) bootcamp on cohort FAC30B
+- 🌱 currently on [Founders and Coders](https://www.foundersandcoders.com) FAC30 cohort bootcamp, learning all things software development
+- 🎓 studied History and Sociology at the University of Warwick
+- 💼 work in publishing as an Assistant Editor, managing books to print and building relationships with stakeholders
 
 ## Tech Stack (so far...)
 
