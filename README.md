@@ -1,6 +1,6 @@
-![Halimah Full Stack Developer](/img/github-header-image.png)
+# Hello, I'm...
 
-# Hello
+![Halimah Full Stack Developer](/img/github-header-image.png)
 
 ```js
   Halimah = {
