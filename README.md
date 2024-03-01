@@ -12,7 +12,7 @@
 
 - 🌱 currently on [Founders and Coders](https://www.foundersandcoders.com) FAC30 cohort bootcamp, learning all things software development
 - 🎓 studied History and Sociology at the University of Warwick
-- 💼 work in publishing as an Assistant Editor, managing books to print and building relationships with stakeholders
+- 💼 work in publishing as an Assistant Editor, project managing books to print and building relationships with stakeholders
 
 ## Tech Stack (so far...)
 
@@ -29,3 +29,9 @@ After I got on to the bootcamp, I practised my skills by creating:
 
 - 🎨 [Colour palette generator](https://halimahexe.github.io/ColourPalette) - automatically generates various colour palettes (created using HTML, CSS and JS). This is still a WIP.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/240px-Pok%C3%A9_Ball_icon.svg.png" alt="pokeball" height="16px" width="16px"> [Poke-Search page](https://halimahexe.github.io/poke-search) - learning how to use fetch by creating a Pokemon search page that returns the pokemon and element types.
+
+I have pair programmed the following projects:
+- 🤖 [Hadel Bot](https://github.com/fac30/discord-ai-bot--halimah-adel) - a Discord AI bot that takes prompts from users and returns responses from OpenAI API (created using Node.js, Discord.js, OpenAI).
+- 🌐 [Lingo Agency website](https://fac30.github.io/Agency-Phoenix-Halimah) - a fake agency website (created using HTML, CSS and JS).
+- 🤖 [ChatGPT front-end clone](https://fac30.github.io/chatgpt-clone--halimah-andrei-adriana-loza) - a front-end clone for ChatGPT (created using HTML, CSS, JavaScript and OpenAI).
+- 🌐 [Deployment to AWS](https://github.com/fac30/halimah-kieran-oleg-andrei-unschool-aws) - practised deploying a simple website to AWS and linking GitHub to it to automatically update (created using AWS, HTML, CSS, JavaScript).
