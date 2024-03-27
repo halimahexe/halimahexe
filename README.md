@@ -36,3 +36,6 @@ I have pair programmed the following projects:
 - 🌐 [Lingo Agency website](https://fac30.github.io/Agency-Phoenix-Halimah) - a fake agency website (created using HTML, CSS and JS).
 - 🤖 [ChatGPT front-end clone](https://fac30.github.io/chatgpt-clone--halimah-andrei-adriana-loza) - a front-end clone for ChatGPT (created using HTML, CSS, JavaScript and OpenAI).
 - 🌐 [Deployment to AWS](https://github.com/fac30/halimah-kieran-oleg-andrei-unschool-aws) - practised deploying a simple website to AWS and linking GitHub to it so it would automatically update (created using AWS, HTML, CSS, JavaScript).
+
+I'm currently working on:
+- [JetSavr Travel App](https://github.com/fac30/travel-app--william-halimah) - a web app that displays flights and currency exchange data (created using PugJS, ExpressJS, CSS and APIs).
