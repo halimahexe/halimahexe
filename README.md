@@ -6,14 +6,15 @@
   Halimah = {
     pronouns: 'they/them',
     location: 'remote, UK',
-    currently: 'FAC30 dev'
+    currently: 'FAC29 apprentice software engineer'
   }
 ```
 
 ![Codewars progress](https://www.codewars.com/users/halimahexe/badges/micro)
-- 🌱 currently on [Founders and Coders](https://www.foundersandcoders.com) FAC30 cohort bootcamp, learning all things software development
+- 🌱 currently on [Founders and Coders](https://www.foundersandcoders.com) FAC29 cohort software development apprenticeship
+- 💼 apprentice software developer at GLA
 - 🎓 studied History and Sociology at the University of Warwick
-- 💼 work in publishing as an Assistant Editor, project managing books to print and building relationships with stakeholders
+- 📚 previously worked in publishing as an Assistant Editor, project managing books to print and building relationships with stakeholders
 
 ## Tech Stack (so far...)
 
