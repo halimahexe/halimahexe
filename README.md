@@ -6,7 +6,7 @@
   Halimah = {
     pronouns: 'they/them',
     location: 'remote, UK',
-    currently: 'FAC29 apprentice software engineer'
+    currently: 'Software Developer Apprentice'
   }
 ```
 
@@ -18,7 +18,8 @@
 
 ## Tech Stack (so far...)
 
-![HTML logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+)
 
 ## My Learning Journey
 
@@ -37,6 +38,3 @@ I have pair programmed the following projects:
 - 🌐 [Lingo Agency website](https://fac30.github.io/Agency-Phoenix-Halimah) - a fake agency website (created using HTML, CSS and JS).
 - 🤖 [ChatGPT front-end clone](https://fac30.github.io/chatgpt-clone--halimah-andrei-adriana-loza) - a front-end clone for ChatGPT (created using HTML, CSS, JavaScript and OpenAI).
 - 🌐 [Deployment to AWS](https://github.com/fac30/halimah-kieran-oleg-andrei-unschool-aws) - practised deploying a simple website to AWS and linking GitHub to it so it would automatically update (created using AWS, HTML, CSS, JavaScript).
-
-I'm currently working on:
-- [JetSavr Travel App](https://github.com/fac30/travel-app--william-halimah) - a web app that displays flights and currency exchange data (created using PugJS, ExpressJS, CSS and APIs).
